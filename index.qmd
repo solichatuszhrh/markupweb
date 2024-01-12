@@ -1,9 +1,9 @@
 ---
-title: "About Me"
+title: "Who am I"
 about:
   id: me
   template: solana
-  image: img/profile.jpg
+  image: profile.jpg
   image-width: 10em
   image-shape: round
   links:    
