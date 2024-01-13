@@ -1,1 +1,1 @@
-Sitemap: https://github.com/solichatuszhrh/markupweb/sitemap.xml
+Sitemap: https://solichatuszhrh.github.io/markupweb/sitemap.xml
